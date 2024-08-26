@@ -14,3 +14,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Censo
 
 ## Encuestas
+
+  - Encuestas probabilísticas
+  - Encuestas no probabilísticas
+  
+## Registros administrativos
+
+Son registros que se crean con un objetivo administrativo (no estadístico) dentro de una institución, este puede ser físico o digital.
+
+La cobertura depende del proceso. Por un lado el censo y la encuesta tienen un fin probabilístico, se diseña un instrumento y se lo aplica ya sea en la población o en la muestra. Esto no pasa con el registro administrativo, su objetivo principal es básicamente administrativo. Por ejemplo, en el banco las fichas de ingreso, el proceso que genera esta ficha es un registro administrativo. En este caso, tiene la finalidad de ordenar a los clientes. Sin embargo, si recolectamos esta información podríamos darle un fin estadístico como ser el flujo de clientes a cierta hora. 
+
+Así, estas bases de datos pueden tener una funcionalidad estadística.Depende del fin administrativo que se busca.
+
+  - Ventajas: Una vez implementada, ofrece información actualizada (digital). Lo bueno es que la información se obtiene de forma más inmediata.
+  - Desventajas: Muchas veces requiere un fuerte pre-procesamiento de los datos, ya que como su fin no es estadístico, a veces no son BD estructuradas. En algunos casos, no cubre toda la población objetivo y no es flexible temáticamente. Por ejemplo si nuestra PO fueran los alumnos de la cato, quizás no todos se inscriben ese semestre y el kardex no considera este hecho.
+
