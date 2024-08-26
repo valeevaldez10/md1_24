@@ -1,0 +1,16 @@
+---
+title: "Tema 1. Fundamentos de la minería de datos"
+author: "Valentina Valdez Vega"
+output: html_document
+date: "2024-08-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Fuente de datos
+
+## Censo
+
+## Encuestas
